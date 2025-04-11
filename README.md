@@ -1,2 +1,2 @@
-# Pomodoro_Equipe03
+# Pomodoro_Equipe
 Um aplicativo que desafia você nos estudos!
